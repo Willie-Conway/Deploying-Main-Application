@@ -2,6 +2,8 @@
 
 Welcome to the **Deploying Main Application** repository! This repository contains code for deploying microservices with Flask, Django, and Kubernetes.
 
+![Deploying Main Application](https://github.com/Willie-Conway/Deploying-Main-Application/blob/f48b675b5dffecb8c77287a5cde22d35f6642cd2/Screenshots/Deploying%20Main%20Application.gif)
+
 ## 🎯 Learning Objectives
 
 - **Create a Dockerfile** to containerize Django applications 🐳
